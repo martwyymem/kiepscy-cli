@@ -10,7 +10,7 @@
 1.  **Download:** Clone this repository or download the `kiepscy-cli.py` script and 'links.txt' to your desired directory.
 
     ```bash
-    git clone [URL of your Github Repo]
+    git clone https://github.com/martwyymem/kiepscy-cli
     ```
     
     *Or download the raw files.*
